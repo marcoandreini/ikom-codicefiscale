@@ -1,0 +1,4 @@
+src/app/code/community/Ikom/CodiceFiscale     app/code/community/Ikom/CodiceFiscale
+src/app/design/frontend/base/default/layout/* app/design/frontend/base/default/layout/
+src/js/ikom/*   		js/ikom/
+src/app/etc/modules/*   	 app/etc/modules/
