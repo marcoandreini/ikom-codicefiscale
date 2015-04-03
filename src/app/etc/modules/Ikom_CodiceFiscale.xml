@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ikom_CodiceFiscale>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Ikom_CodiceFiscale>
+    </modules>
+</config>

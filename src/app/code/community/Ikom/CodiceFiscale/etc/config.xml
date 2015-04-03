@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ikom_CodiceFiscale>
+            <version>1.0.0</version>
+        </Ikom_CodiceFiscale>
+    </modules>
+	<frontend>
+		<layout>
+			<updates>
+				<codicefiscale>
+					<file>ikom_codicefiscale.xml</file>
+				</codicefiscale>
+			</updates>
+		</layout>
+	</frontend>
+</config>
