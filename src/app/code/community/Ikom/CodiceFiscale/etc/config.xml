@@ -13,5 +13,14 @@
 				</codicefiscale>
 			</updates>
 		</layout>
+		<translate>
+            <modules>
+                <codicefiscale>
+                    <files>
+                        <default>ikom_codicefiscale.csv</default>
+                    </files>
+                </codicefiscale>
+            </modules>
+        </translate>
 	</frontend>
 </config>
