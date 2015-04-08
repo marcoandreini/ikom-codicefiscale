@@ -4,7 +4,7 @@
         <Ikom_CodiceFiscale>
             <active>true</active>
             <codePool>community</codePool>
-            <depends></depends>
+            <depends>Mage_Checkout</depends>
         </Ikom_CodiceFiscale>
     </modules>
 </config>

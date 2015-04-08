@@ -4,7 +4,7 @@
         <Ikom_CodiceFiscale>
             <version>1.0.0</version>
         </Ikom_CodiceFiscale>
-    </modules>
+    </modules>	
 	<frontend>
 		<layout>
 			<updates>
@@ -15,12 +15,13 @@
 		</layout>
 		<translate>
             <modules>
-                <codicefiscale>
+                <Mage_Checkout>
                     <files>
-                        <default>ikom_codicefiscale.csv</default>
+                        <additional>ikom_codicefiscale.csv</additional>
                     </files>
-                </codicefiscale>
+                </Mage_Checkout>
             </modules>
         </translate>
 	</frontend>
 </config>
+
