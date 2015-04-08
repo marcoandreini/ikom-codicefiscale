@@ -4,8 +4,7 @@
         <Ikom_CodiceFiscale>
             <version>1.0.0</version>
         </Ikom_CodiceFiscale>
-    </modules>
-	
+    </modules>	
 	<frontend>
 		<layout>
 			<updates>
